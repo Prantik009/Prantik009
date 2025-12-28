@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantik009" alt="prantik009" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [prantik540](prantik540)
+- 👨‍💻 All of my projects are available at [portfolioprantik.netlify.app](portfolioprantik.netlify.app)
 
 - 📫 How to reach me **biswasritam5.13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prantik biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prantik biswas" height="30" width="40" /></a>
-<a href="https://instagram.com/prantik540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prantik540" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prantik540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prantik540" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prantik-biswas-a74ab4347/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prantik-biswas-a74ab4347/" height="30" width="40" /></a>
+<a href="https://instagram.com/@prantik540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prantik540" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/prantik_540/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prantik_540/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
