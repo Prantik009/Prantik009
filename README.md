@@ -1,98 +1,71 @@
-<h1 align="center">Hi 👋, I'm Prantik Biswas</h1>
+👋 Hi, I'm Prantik Biswas
+Full Stack Developer | Problem Solver | Tech Enthusiast
+Passionate about building scalable web applications and exploring modern technologies.
 
-<p align="center">
-  <b>Full Stack MERN Developer • Open-Source Learner • Problem Solver</b>
-</p>
+🎓 Education
+Master of Computer Applications
+Meghnad Saha Institute of Technology | CGPA: 8.39 | 2023–2025
 
-<p align="center">
-  Building real-world web applications while learning something new every day.
-</p>
+B.Sc. in Computer Science
+P. R. Thakur Government College | CGPA: 9.61 | 2020–2023
 
----
+🛠️ Tech Stack
+Languages
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
-## 🚀 About Me
+Frontend
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=ui&logoColor=white
 
-- 🎓 Computer Science graduate from **P. R. Thakur Government College** (CGPA: **9.0**)
-- 💻 Full Stack **MERN Developer**
-- 🧠 Strong fundamentals in **DSA, OOP, OS, DBMS**
-- 📘 Solved **80+ LeetCode problems**
-- 🌱 Currently learning **backend architecture, scalable systems & open-source practices**
-- 🤝 Passionate about building tech for **social impact & learning-driven projects**
+State & Data
+https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
+https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white
+https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
 
----
+Backend
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 
-## 🛠️ Tech Stack
+Databases
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+Tools & Cloud
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white
+https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white
+https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+Core CS Concepts
+Object-Oriented Programming (OOP)
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+Data Structures & Algorithms
 
-### 🧠 Programming & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,linux,vscode" />
-</p>
+Database Management Systems (DBMS)
 
----
+Software Engineering Principles
 
-## 📌 Featured Projects
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prantik009&show_icons=true&theme=tokyonight&hide_border=true" alt="Prantik's GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantik009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+🌱 Currently Learning
+Advanced backend architecture & system design
 
-### 🔹 NGO Food Management System (MERN)
-- Full-stack platform for NGOs to manage food waste and social missions  
-- NGO registration, mission selection, and structured data handling  
-- Built with scalability and real-world use in mind  
+Open-source contribution workflows
 
-### 🔹 Virtual Shirt Size Measurement System
-- Computer Vision–based application using **OpenCV, MediaPipe, CVZone**
-- Measures shoulder, chest, waist & suggests shirt size
-- Includes distance validation and automated measurement logic  
+Performance optimization techniques
 
-> 🛠️ More learning-focused and open-source projects coming soon
+📫 Connect With Me
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📈 Coding Practice
-
-- 🧩 **LeetCode:** 80+ problems solved  
-- 📊 Rank: ~1.2M  
-- 🎯 Focus: DSA + real-world application of concepts  
-
----
-
-## 🌱 Open-Source & Learning Goals
-
-- Contribute to beginner-friendly open-source projects
-- Improve backend performance & system design understanding
-- Write clean, readable, and maintainable code
-- Learn by building and breaking things 🚀
-
----
-
-## 📫 Connect With Me
-
-- 💻 GitHub: https://github.com/prantik009
-- 🔗 LinkedIn: https://www.linkedin.com/in/prantik-biswas-a74ab4347/
-- 📧 Email: biswasritam5.13@gmail.com
-
----
-
-⭐ If you like my work, feel free to explore my repositories or connect with me!
+⭐ Feel free to explore my repositories and connect with me!
