@@ -1,71 +1,121 @@
-👋 Hi, I'm Prantik Biswas
-Full Stack Developer | Problem Solver | Tech Enthusiast
-Passionate about building scalable web applications and exploring modern technologies.
+<h1 align="center">Hi 👋, I'm Prantik Biswas</h1>
 
-🎓 Education
-Master of Computer Applications
-Meghnad Saha Institute of Technology | CGPA: 8.39 | 2023–2025
+<p align="center">
+  <b>Full Stack Web Developer • Lifelong Learner • Open-Source Enthusiast</b>
+</p>
 
-B.Sc. in Computer Science
-P. R. Thakur Government College | CGPA: 9.61 | 2020–2023
+<p align="center">
+  Learning by building, experimenting, and contributing — one commit at a time.
+</p>
 
-🛠️ Tech Stack
-Languages
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+<p align="center">
+  <a href="https://github.com/Prantik540">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/prantik-biswas-a74ab4347/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Prantik_540/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+</p>
 
-Frontend
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=ui&logoColor=white
+---
 
-State & Data
-https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
-https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white
-https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
+## 🚀 About Me
 
-Backend
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+- 🎓 Computer Science graduate from **P. R. Thakur Government College** (CGPA: **9.0**)
+- 💻 Full Stack Developer with strong **MERN & modern frontend** experience
+- 🧠 Solid understanding of **DSA, OOPS, DBMS, Software Engineering**
+- 📘 Solved **80+ problems on LeetCode**
+- 🌱 Actively learning **system design, scalable backend & open-source workflows**
+- 🤝 Interested in building **clean, maintainable, real-world software**
 
-Databases
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+---
 
-Tools & Cloud
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white
-https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white
-https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
-https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+## 🛠️ Tech Stack
 
-Core CS Concepts
-Object-Oriented Programming (OOP)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+</p>
 
-Data Structures & Algorithms
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-Database Management Systems (DBMS)
+- Shadcn UI
 
-Software Engineering Principles
+### 🔄 State & Data Management
+- React Query  
+- Zustand  
+- Axios  
 
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prantik009&show_icons=true&theme=tokyonight&hide_border=true" alt="Prantik's GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantik009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-🌱 Currently Learning
-Advanced backend architecture & system design
+### 📝 Forms & Validation
+- React Hook Form  
+- Zod  
 
-Open-source contribution workflows
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
 
-Performance optimization techniques
+### 🔐 Authentication
+- JWT  
+- Passport.js (Google OAuth)
 
-📫 Connect With Me
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-⭐ Feel free to explore my repositories and connect with me!
+### 📊 Visualization
+- Chart.js  
+- Recharts  
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,render" />
+</p>
+
+- Appwrite  
+- Cloudinary  
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prantik540&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prantik540&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Learning & Practice
+
+- 🧩 **LeetCode:** 80+ problems solved  
+- 🎯 Focus areas:
+  - Data Structures & Algorithms
+  - Backend architecture
+  - Clean code & best practices
+  - Open-source contribution readiness
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced backend patterns  
+- Scalable API design  
+- Production-grade MERN & Next.js apps  
+- Open-source contribution standards  
+
+---
+
+⭐ *Always open to learning, collaboration, and meaningful discussions.*
