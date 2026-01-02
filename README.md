@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prantik540">
+  <a href="https://github.com/prantik009">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/prantik-biswas-a74ab4347/">
